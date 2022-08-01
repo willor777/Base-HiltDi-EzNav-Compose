@@ -20,5 +20,5 @@ Base Project Template with gradle dependencies for...
 - settings.gradle (:project) - Change the name of the project
 - app/src/res/values - GoTo themes, change name there, GoTo strings, change name there
 - app/src/main/java/<com.name.appname.ui.theme - Change Theme Name
-
+- menu/preferences/VCS - delete git info directory
 
