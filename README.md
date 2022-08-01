@@ -18,5 +18,7 @@ Base Project Template with gradle dependencies for...
 - app/src/main - Change package names. Make sure changes are reflected in the AndroidManifest.xml
 - lib_data/src/main - Same as above, Make sure changes are reflected in AndroidManifest.xml as well
 - settings.gradle (:project) - Change the name of the project
+- app/src/res/values - GoTo themes, change name there, GoTo strings, change name there
+- app/src/main/java/<com.name.appname.ui.theme - Change Theme Name
 
 
