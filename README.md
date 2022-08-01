@@ -1,5 +1,5 @@
 
-- Base Project Template with gradle dependencies for...
+Base Project Template with gradle dependencies for...
 
 - Compose
 - Dagger Hilt Dependency Injection
@@ -11,9 +11,9 @@
 - Lottie Animations
 - Datastore Preferences
 
+< * -------------------------------------------------------- * >
 
-
-- Instruction to use as "Base Project"...
+- - - Instruction to use as "Base Project"... - - -
 
 - app/src/main - Change package names. Make sure changes are reflected in the AndroidManifest.xml
 - lib_data/src/main - Same as above, Make sure changes are reflected in AndroidManifest.xml as well
