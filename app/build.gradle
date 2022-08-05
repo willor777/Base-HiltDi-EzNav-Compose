@@ -83,6 +83,11 @@ dependencies {
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
     debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
 
+    // Icons - references: https://fonts.google.com/icons?selected=Material+Icons
+    implementation "androidx.compose.material:material-icons-core:${compose_version}"
+    implementation "androidx.compose.material:material-icons-extended:${compose_version}"
+
+
     // Hilt Viewmodel -> Compose
     implementation "androidx.hilt:hilt-navigation-fragment:1.0.0"
 
