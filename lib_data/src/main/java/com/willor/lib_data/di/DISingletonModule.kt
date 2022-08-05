@@ -1,4 +1,4 @@
-package com.willor.lib_data
+package com.willor.lib_data.di
 
 import dagger.Module
 import dagger.Provides
