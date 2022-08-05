@@ -10,6 +10,10 @@ Base Project Template with gradle dependencies for...
 - Kotlin-Android Coroutines
 - Lottie Animations
 - Datastore Preferences
+- Material Icons
+- Coil Image Loader
+- Retrofit
+- Gson + Gson For Retrofit Converter
 
 < * -------------------------------------------------------- * >
 
